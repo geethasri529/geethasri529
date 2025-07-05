@@ -23,6 +23,12 @@
 <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,html,css,mongodb,mysql,spring,flask,git,github,postman" />
 
 ---
+### 📚 Problem Solving Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/geethasri_529/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/geethasi7ew/)
+
+---
 
 ### 📈 GitHub Stats
 
