@@ -14,6 +14,10 @@
       <p>
         <strong>Enthusiastic and detail-oriented Computer Science student</strong> with a strong foundation in programming. Seeking to leverage academic knowledge and practical experience in software development to contribute to impactful IT projects while continuously learning and adapting to emerging technologies.
       </p>
+      ### 📄 Resume
+
+📌 [Click here to view my Resume](https://github.com/geethasri529/geethasri529/blob/main/intern resume (1).pdf)
+
     </td>
   </tr>
 </table>
