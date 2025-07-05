@@ -2,8 +2,9 @@
 <h1 align="center">Hi there 👋, I'm Geetha Sri</h1>
 
 <p align="center">
-  <img src="https://github.com/geethasri529/geethasri529/blob/main/WhatsApp%20Image%202025-06-17%20at%2011.46.21%20AM.jpeg" width="100%" />
+  <img src="https://github.com/geethasri529/geethasri529/blob/main/WhatsApp%20Image%202025-06-17%20at%2011.46.21%20AM.jpeg" width="150" height="150" style="border-radius: 50%;" />
 </p>
+
 
 ---
 
