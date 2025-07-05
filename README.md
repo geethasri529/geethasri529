@@ -1,6 +1,8 @@
 <!-- 🌈 Stylish and Interactive GitHub Profile README for Geetha -->
 <h1 align="center">Hi there 👋, I'm Geetha Sri</h1>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
 <p align="center">
   <img src="https://github.com/geethasri529/geethasri529/blob/main/WhatsApp%20Image%202025-06-17%20at%2011.46.21%20AM.jpeg" width="150" height="150" style="border-radius: 50%;" />
 </p>
