@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="1" align="center" />
 <!-- Name Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Hey%20I'm%20Geetha Sri%20DNV-✨-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hey%20I'm%20Geetha Sri%20-✨-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <!-- Typing SVG Animation -->
@@ -111,14 +111,35 @@
 
 ### 📈 GitHub Stats & Activity
 
+### 📈 GitHub Stats & Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manibabu-dnv&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manibabu-dnv&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=geethasri529&show_icons=true&theme=radical" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethasri529&layout=compact&theme=radical" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=manibabu-dnv&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=geethasri529&theme=tokyonight" height="170" alt="GitHub Streak"/>
 </div>
+
+---
+
+### 🐍 My GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geethasri529/geethasri529/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geethasri529/geethasri529/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/geethasri529/geethasri529/output/github-snake.svg" />
+</picture>
+
+---
+
+### 🎨 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geethasri529&theme=react&area=true&area_color=FF00FF&color=00FFFF&point=FFFFFF&line=00FFD1" />
+</p>
+
 
 
 ---
