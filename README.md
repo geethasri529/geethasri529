@@ -14,9 +14,6 @@
       <p>
         <strong>Enthusiastic and detail-oriented Computer Science student</strong> with a strong foundation in programming. Seeking to leverage academic knowledge and practical experience in software development to contribute to impactful IT projects while continuously learning and adapting to emerging technologies.
       </p>
-      ### 📄 Resume
-
-📌 [Click here to view my Resume](https://github.com/geethasri529/geethasri529/blob/main/intern resume (1).pdf)
 
     </td>
   </tr>
@@ -32,6 +29,7 @@
 - 💬 Ask me about **Flask, Spring Boot, Node.js, MongoDB, React, SQL**
 - 🌱 Currently learning **DSA with Java** and sharpening **system design + open-source contributions**
 - 💖 I love blending tech with creativity — from chatbot projects to AI-powered dashboards
+- 📌 [Click here to view my Resume](https://github.com/geethasri529/geethasri529/blob/main/intern resume (1).pdf)
 
 ---
 
