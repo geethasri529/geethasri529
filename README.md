@@ -32,7 +32,13 @@
 </p>
 
 ---
+### 📫 Let's Connect
 
+- 📍 AndhraPradesh, India
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/) 
+- 📧 geethasri529@email.com
+
+---
 
 
 ### 💬 Quote of the Day
