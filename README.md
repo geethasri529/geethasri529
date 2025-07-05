@@ -1,12 +1,22 @@
 <!-- 🌈 Stylish and Interactive GitHub Profile README for Geetha -->
 <h1 align="center">Hi there 👋, I'm Geetha Sri</h1>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
-<p align="center">
-  <img src="https://github.com/geethasri529/geethasri529/blob/main/WhatsApp%20Image%202025-06-17%20at%2011.46.21%20AM.jpeg" width="150" height="150" style="border-radius: 50%;" />
-</p>
 
+<table align="center">
+  <tr>
+    <td width="160px">
+      <img src="https://github.com/geethasri529/geethasri529/blob/main/WhatsApp%20Image%202025-06-17%20at%2011.46.21%20AM.jpeg" width="150" height="150" style="border-radius: 10px;" />
+    </td>
+    <td>
+      <p>
+        <strong>Enthusiastic and detail-oriented Computer Science student</strong> with a strong foundation in programming. Seeking to leverage academic knowledge and practical experience in software development to contribute to impactful IT projects while continuously learning and adapting to emerging technologies.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -26,6 +36,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,html,css,mongodb,mysql,spring,flask,git,github,postman" />
 
 ---
+
 ### 📚 Problem Solving Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/geethasri_529/)
@@ -41,13 +52,15 @@
 </p>
 
 ---
+
 ### 📫 Let's Connect
 
-- 📍 AndhraPradesh, India
-- 🔗 [LinkedIn](https://www.linkedin.com/in/geetha-sri-b744382a4/) 
+- 📍 Andhra Pradesh, India  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/geetha-sri-b744382a4/)  
 - 📧 geethasri529@email.com
 
 ---
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=geethasri529.geethasri529)
 
 ---
@@ -57,6 +70,9 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=100&section=footer&text=⚡%20Built%20by%20GeethaSri%20Gandi&fontAlign=center&fontColor=000000&fontSize=18" />
 </p>
-
