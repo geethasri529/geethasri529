@@ -45,7 +45,9 @@
 - 📧 geethasri529@email.com
 
 ---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=geethasri529.geethasri529)
 
+---
 
 ### 💬 Quote of the Day
 
@@ -54,3 +56,4 @@
 </p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=100&section=footer&text=⚡%20Built%20by%20GeethaSri%20Gandi&fontAlign=center&fontColor=000000&fontSize=18" />
 </p>
+
