@@ -35,7 +35,7 @@
 ### 📫 Let's Connect
 
 - 📍 AndhraPradesh, India
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/geetha-sri-b744382a4/) 
 - 📧 geethasri529@email.com
 
 ---
