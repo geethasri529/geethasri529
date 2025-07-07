@@ -43,6 +43,19 @@
 <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,html,css,mongodb,mysql,spring,flask,git,github,postman" />
 
 ---
+<h2>🎮 Mini Project</h2>
+
+<div align="center">
+  <a href="https://github.com/geethasri529/rock-paper-scissors-game" target="_blank">
+    <div style="position: relative; display: inline-block; margin: 10px;">
+      <img src="https://img.freepik.com/free-vector/rock-paper-scissors-cartoon_23-2148786503.jpg" width="300" height="180" style="border-radius: 15px;" />
+      <div style="position: absolute; bottom: 10px; left: 0; right: 0; color: white; background: rgba(0,0,0,0.6); font-size: 16px; padding: 6px; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
+        ✊ Rock Paper Scissors Game (HTML/CSS/JS)
+      </div>
+    </div>
+  </a>
+</div>
+---
 
 ### 📚 Problem Solving Profiles
 
@@ -56,6 +69,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geethasri529&show_icons=true&theme=tokyonight" alt="Geetha's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geethasri529&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=geethasri529&theme=radical&no-frame=true&column=4&margin-w=10" />
 </p>
 
 ---
